@@ -508,7 +508,7 @@ background-size: 100%;
     }
     
 }
-/* -------------footer--------------------------- */
+/* ------------------------------------------------------footer--------------------------- */
 
 .footer__container{
     background: #131313;
@@ -561,9 +561,6 @@ background-size: 100%;
     color: #fff;
     font-size: 24px;
 }
-.social__icon--link .bi:hover{
-    color: #ff4e50;
-}
 .social__media{
     max-width: 1000px;
     width: 100%;
@@ -605,4 +602,20 @@ background-size: 100%;
         padding: 10px;
         width: 100%;
     }
+}
+
+.social__icon--link .bi-facebook:hover{
+    color: #4267B2;
+}
+.social__icon--link .bi-instagram:hover{
+    color: #C13584;
+}
+.social__icon--link .bi-youtube:hover{
+    color: #FF0000;
+}
+.social__icon--link .bi-twitter:hover{
+    color: #1DA1F2;
+}
+.social__icon--link .bi-linkedin:hover{
+    color: #0077b5;
 }
